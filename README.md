@@ -33,7 +33,7 @@ The web app allows users to input health-related parameters and predicts whether
    ```bash
    git clone https://github.com/your-username/diabetes-prediction-flask.git
    cd diabetes-prediction-flask
-Install required packages:
+2. Install required packages:
 
 It's recommended to use a virtual environment:
 
